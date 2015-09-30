@@ -55,7 +55,7 @@ void draw(){
      line(198,zxc,198,asd);
      line(198,zxc,234,asd);
      line(234,zxc,234,asd);
-     //s
+     //s 
      line(254,zxc,290,zxc);
      line(254,zxc,254,710);
      line(254,710,290,710);
