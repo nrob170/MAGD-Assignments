@@ -12,11 +12,13 @@ class animals{
  line(300,552,300,648);
  line(350,555,350,642);
  line(400,567,400,633);
+ 
  stroke(#F58C1B);
  line(230,642,230,742);
  line(210,642,210,742);
  line(370,642,370,742);
  line(390,642,390,742);
+ line(155,600,130,700);
  strokeWeight(15);
  stroke(255);
  fill(#F58C1B);
@@ -39,8 +41,10 @@ class animals{
  line(210,642,210,742);
  line(370,642,370,742);
  line(390,642,390,742);
+ line(155,600,130,700);
  strokeWeight(15);
  stroke(#A73D19);
+ point(130,700);
  fill(#F5E979);
  ellipse(460,560,90,100);
  fill(0);
