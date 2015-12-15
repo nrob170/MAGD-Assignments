@@ -8,7 +8,7 @@ class Castle{
   rect(0,800,1000,1000);
   stroke(0);
   strokeWeight(2);
-  line(0,800,1000,800);//this is the brick at the bottom. I coud have done a for loop, but I dont understand the mehcanics of them and it woud have taken me longer than just putting them in
+  line(0,800,1000,800);//this is the brick at the bottom. I coud have done a for loop, but I dont understand the mechanics of them and it woud have taken me longer than what I did
   line(0,850,1000,850);
   line(0,900,1000,900);
   line(0,950,1000,950);
@@ -51,9 +51,7 @@ class Castle{
   line(700,950,700,1000);
   line(800,950,800,1000);
   line(900,950,900,1000);
-  
-  //castle
-  image(castle,600,400,400,400);
+   image(castle,600,400,400,400);// this is the castle
   }
  
 }
